@@ -31,5 +31,7 @@ Foi feito utilizando classes, metódos, construtores e sobrecarga.
 O espaço de trabalho contém duas pastas por padrão:
 
 src: a pasta para manter os sources
+
 lib: a pasta para mandar as dependecies
+
 E os arquivos de saída compilados serão gerados na pasta bin por padrão.
